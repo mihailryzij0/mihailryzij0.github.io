@@ -552,7 +552,7 @@ ul {
 }
 
 .mobil-menu {
-  background-image: url(../../../img/menu.svg);
+  background-image: url(../img/menu.svg);
   background-color: #fffffe;
   width: 50px;
   height: 50px;
@@ -2125,7 +2125,7 @@ button:focus,
 
   .header-item__tel {
     font-size: 0;
-    background-image: url(../../../img/telephone.svg);
+    background-image: url(../img/telephone.svg);
     background-color: #fffffe;
     width: 50px;
     height: 50px;
