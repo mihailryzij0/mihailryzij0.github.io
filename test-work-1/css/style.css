@@ -164,7 +164,6 @@ body {
   position: absolute;
   font-weight: 600;
   font-size: 1.5rem;
-  line-height: 1.8125rem;
   color: #FFFFFF;
 }
 
@@ -1198,8 +1197,8 @@ body {
   }
 
   .baner-product__effect-4 {
-    left: 8.188rem;
-    bottom: 7.313rem;
+    left: 6.188rem;
+    bottom: 9.313rem;
   }
 
   .baner-form {
@@ -1435,7 +1434,7 @@ body {
 
 @media (max-width: 775px) {
   .baner-product__effect-4 {
-    bottom: 10.313rem;
+    bottom: 11.313rem;
   }
 }
 
@@ -1455,6 +1454,10 @@ body {
 
   .structure-top__title {
     max-width: 207px;
+  }
+
+  .structure-box {
+    padding: 2.5rem 2rem 2.5rem 2rem;
   }
 
   .structure-box__flower {
@@ -1489,20 +1492,22 @@ body {
 
 @media (max-width: 550px) {
   .baner-product__effect-4 {
-    bottom: 10.313rem;
+    bottom: 9.313rem;
   }
 
   .doctors-bottom__line-2 {
-    left: 32%;
-    top: -36.437rem;
+    left: 51%;
+    top: -7.437rem;
+    height: 50%;
   }
 
   .doctors-bottom__line-3 {
-    top: -9%;
-    left: -184px;
+    top: -1%;
+    left: -116px;
     -webkit-transform: rotate(377deg);
         -ms-transform: rotate(377deg);
             transform: rotate(377deg);
+    height: 30%;
   }
 }
 
@@ -1517,13 +1522,13 @@ body {
   }
 
   .baner-product__effect-3 {
-    left: 4.188rem;
+    left: 0.188rem;
     top: 13.125rem;
   }
 
   .baner-product__effect-4 {
     left: 5.188rem;
-    bottom: 6.313rem;
+    bottom: 8.313rem;
   }
 }
 
